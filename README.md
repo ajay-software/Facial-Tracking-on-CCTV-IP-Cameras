@@ -1,4 +1,4 @@
-# 🕷️ Spider-Man: Brand New Day — Facial Scanning HUD
+# Facial Tracking on CCTV/IP Cameras
 
 > A real-time facial recognition HUD inspired by the Spider-Man: Brand New Day comic arc.  
 > Built with Python, OpenCV, and MediaPipe. Works with webcams, USB cameras, and authorized CCTV / IP camera RTSP feeds.
