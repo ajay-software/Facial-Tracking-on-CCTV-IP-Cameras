@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Screenshots / recordings
+screenshot_*.png
+*.mp4
+*.avi
+*.mkv
+
+# Face recognition model cache
+.deepface/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive — NEVER commit RTSP credentials!
+.env
+secrets.py
+creds.txt
+
+# Logs
+*.log
