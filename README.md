@@ -149,6 +149,6 @@ MIT License — see [LICENSE](LICENSE)
 
 ## 🙏 Inspired By
 
-- *The Amazing Spider-Man: Brand New Day* — Marvel Comics
+- Spider-Man: Brand New Day* — Marvel Comics
 - Google MediaPipe face detection
 - OpenCV community
